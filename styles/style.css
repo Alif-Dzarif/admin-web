@@ -1,6 +1,3 @@
-.banner {
-  width: 100%;
-  background-color: aqua;
-  display: flex;
-  justify-content: end;
+:root {
+  font-family: fantasy;
 }
